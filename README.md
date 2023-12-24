@@ -6,7 +6,7 @@ Pytorch implementation for CoordNet: Data Generation and Visualization Generatio
 - CUDA >= 10.0
 - Python >= 3.7
 - Numpy
-- skimage
+- Skimage
 - Pytorch >= 1.0
 
 ## Data format
