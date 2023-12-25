@@ -35,7 +35,7 @@ python3 main.py --mode 'inf' --dataset 'Vortex' --application 'temporal'
   author={Han, Jun and Wang, Chaoli},
   journal={IEEE Transactions on Visualization and Computer Graphics},
   volume={29},
-  number={2},
-  pages={4591--4693},
+  number={12},
+  pages={4951--4963},
   year={2023}
 }
