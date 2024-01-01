@@ -27,6 +27,8 @@ python3 main.py --mode 'train' --dataset 'Vortex' --applicaion 'temporal'
 ```
 python3 main.py --mode 'inf' --dataset 'Vortex' --application 'temporal'
 ```
+## Acknowledgements
+This research was supported in part by the start-up fund UDF01002679 of the Chinese University of Hong Kong, Shenzhen, Shenzhen Science and Technology Program ZDSYS20211021111415025, and the U.S. National Science Foundation through grants IIS-1455886, CNS-1629914, DUE-1833129, IIS-1955395, IIS-2101696, and OAC-2104158.
 
 ## Citation 
 ```
@@ -39,3 +41,4 @@ python3 main.py --mode 'inf' --dataset 'Vortex' --application 'temporal'
   pages={4951--4963},
   year={2023}
 }
+
